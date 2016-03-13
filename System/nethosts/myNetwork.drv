@@ -1,0 +1,9 @@
+@@142 @@31 @@086 ++
+contactRouter()
+myRequest(ip, dns, password)
+
+set user_internet_protocol("190.135.0.1")
+set user_dns_cache("190.135.0.0")
+set user_capped_limit(x/y??:34*77++)
+set user_website_cache(ubx??:++sum)
+set user_viewed_ip("77.101.32.4")
