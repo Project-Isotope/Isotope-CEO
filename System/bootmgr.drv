@@ -1,5 +1,13 @@
-#####
-##########
-#############################################################################################################################
 ece.midi()
-##
+ece.mod(system.callFor(thisObject("bootmgr.drv")))
+ece.memory()
+ece.showUsage(when(x+y?:"80").consoleCommand())
+
+printFromConsole(e)
+ping(console(awaitReply))
+
+when(reply) {
+    closeApp(console)
+}
+
+constantVariable("myDrv")
